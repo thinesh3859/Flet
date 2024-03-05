@@ -1,6 +1,6 @@
 # A mobapp Flet app
 
-An example of a minimal Flet app.
+An Python flet appintegrated with sqlite3
 
 To run the app:
 
