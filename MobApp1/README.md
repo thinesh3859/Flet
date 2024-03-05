@@ -9,5 +9,5 @@ flet run [app_directory]
 ```
 | <img src="screenshot/welcome.jpg" alt="drawing" width="200"/>  | <img src="screenshot/signin.jpg" alt="drawing" width="200"/> |
 |--|--|
-| <img src="screenshot/signup" alt="drawing" width="200"/>  | <img src="screenshot/home" alt="drawing" width="200"/> |
+| <img src="screenshot/signup.jpg" alt="drawing" width="200"/>  | <img src="screenshot/home.jpg" alt="drawing" width="200"/> |
 
